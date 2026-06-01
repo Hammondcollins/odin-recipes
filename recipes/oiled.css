@@ -1,0 +1,25 @@
+h1 {
+    color: firebrick;
+    font-size: 50px;
+    text-align: center;
+}
+
+.p1,p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#link {
+    color: brown;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    color: coral;
+    font-size: 15px;
+}
